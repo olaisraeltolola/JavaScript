@@ -31,7 +31,7 @@ console.log(copy == a)
 */
 
 
-function range(start, stop){
+/*function range(start, stop){
 	index = 0;
 	array = []
 	for (let count = start; count <= stop; count++){
@@ -83,9 +83,26 @@ function reverseArrayInPlace(array){
 }
 console.log(Math.floor(7/2))
 console.log(reverseArrayInPlace([3,4,5,6,7,8,10,45]))
+*/
 
 
+/*console.log(age);
+var age = 5;
+console.log(age);
+*/
+
+//console.log(year);
+//const year = 5;
+//console.log(year);
+
+//const sum = (a, b) => a + b;
 
 
+console.log(sum(2,4))
+/*console.log(greet("Emeka"))
+function greet(name){
+	return "Hello " + name;
+}
+*/
 
 
